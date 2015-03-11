@@ -2,7 +2,7 @@
 University course "Parallel programming 2" labs (currently in progress)
 
 ## Labs
-1. Adaю Semaphores
+1. Ada. Semaphores
 2. ???
 3. ???
 4. ???
