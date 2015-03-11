@@ -1,2 +1,12 @@
 # PP2-labs
-Parallel programming labs
+University course "Parallel programming 2" labs (currently in progress)
+
+## Labs
+1. Adaю Semaphores
+2. ???
+3. ???
+4. ???
+5. ???
+6. ???
+7. ???
+8. ???
