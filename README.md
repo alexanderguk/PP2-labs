@@ -1,5 +1,5 @@
 # PP2-labs
-University course "Parallel programming 2" labs (currently in progress)
+University course "Parallel programming 2" labs
 
 ## Labs
 1. Ada. Semaphores
